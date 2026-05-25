@@ -17,6 +17,16 @@
    top: 0;
 }
 
+.logo {
+   color: rgb(255, 251, 4);
+}
+
+.projects {
+   padding: 50px;
+   text-align: center;
+   background: #f0db40;
+}
+
 
 .nav-links {
    list-style: none;
@@ -42,7 +52,7 @@
    flex-direction: column;
    justify-content: center;
    align-items: center;
-   background: #f4f4f4;
+   background: #ff9a20;
    text-align: center;
 }
 
@@ -76,7 +86,7 @@
    background: #eee;
    padding: 40px;
    border-radius: 10px;
-   border: 1px solid #ddd;
+   border: 1px solid #000000;
 }
 
 
